@@ -56,8 +56,8 @@ a:hover {
 }
 
 header {
-  text-align: center;
   background: url('images/sky.jpg') no-repeat top center ;
+  text-align: center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
